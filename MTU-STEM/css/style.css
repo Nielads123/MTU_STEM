@@ -1,0 +1,51 @@
+ 
+  
+.navbar-brand,
+.text-primary{
+    color: rgb(87, 231, 87) !important;
+    
+}
+
+.nav-link{
+    font-weight: 500;
+}
+
+.btn-pprimary{
+    background-color: rgb(87, 231, 87) !important;
+    border: rgb(87, 231, 87);
+    outline: none;
+}
+
+.btn-pprimary:hover{
+    background-color:  #00ff80 !important;
+}
+.nav-link:hover{
+    color: #00ff80 !important;
+}
+p{
+    font-size: 18px;
+}
+
+.nav-link{
+    font-weight: 500;
+}
+
+.blue-bg{
+    background-color: #00ff80 !important;
+    color: #fff;
+}
+.text-pprimary{
+    color: rgb(87, 231, 87) !important;
+    
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    border: none !important;
+    background-color:#00ff80 !important;
+    color: white;
+}
+
+
+.nav-tabs{
+    border: none !important;
+}
